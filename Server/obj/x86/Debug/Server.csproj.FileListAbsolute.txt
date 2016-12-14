@@ -1,0 +1,4 @@
+C:\Users\User\VasilevService\Server\bin\Debug\Server.exe
+C:\Users\User\VasilevService\Server\bin\Debug\Server.pdb
+C:\Users\User\VasilevService\Server\obj\x86\Debug\Server.exe
+C:\Users\User\VasilevService\Server\obj\x86\Debug\Server.pdb

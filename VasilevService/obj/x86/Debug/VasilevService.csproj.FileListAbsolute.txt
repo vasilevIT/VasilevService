@@ -1,0 +1,6 @@
+C:\Users\User\VasilevService\VasilevService\bin\Debug\VasilevService.exe
+C:\Users\User\VasilevService\VasilevService\bin\Debug\VasilevService.pdb
+C:\Users\User\VasilevService\VasilevService\obj\x86\Debug\VasilevService.ProjectInstaller.resources
+C:\Users\User\VasilevService\VasilevService\obj\x86\Debug\VasilevService.csproj.GenerateResource.Cache
+C:\Users\User\VasilevService\VasilevService\obj\x86\Debug\VasilevService.exe
+C:\Users\User\VasilevService\VasilevService\obj\x86\Debug\VasilevService.pdb
